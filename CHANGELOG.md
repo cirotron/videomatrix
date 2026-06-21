@@ -107,7 +107,7 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - `README.md` — features, quickstart, configuration, architecture, keyboard/mouse reference.
 - `ARCHITECTURE.md` — detailed technical design.
 - `TODO.md` — task tracker (development use).
-- `dev_log.md` — development notes and decisions.
+- `DEVLOG.md` — development notes and decisions.
 - `CHANGELOG.md` — this file.
 
 ---
